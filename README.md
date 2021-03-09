@@ -41,7 +41,7 @@ NOTE: To integrate with your [MSFT Teams app](https://admin.teams.microsoft.com/
 If you don't have access to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), get a [Free Developer Account Here](https://developer.microsoft.com/en-us/microsoft-365/dev-program)!
 
 
-## Deltas / Code of Intererst
+## Deltas / Code of Interest
 
 For this example, the following are deltas/changes from the standard [Blitz.js generated app](https://blitzjs.com/docs/file-structure)
 
